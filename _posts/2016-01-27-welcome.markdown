@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Welcome to my personal blog!"
+date:   2016-01-27 17:54:14
+categories: welcome
+---
+I'm just playing with Jekyll right now, but who knows, maybe this will turn into one of those [famous][1] [software][2] [engineering][3] [blogs][4].
+
+[1]: http://www.joelonsoftware.com/
+[2]: http://blog.codinghorror.com/
+[3]: http://www.paulgraham.com/articles.html
+[4]: http://martinfowler.com/bliki/
