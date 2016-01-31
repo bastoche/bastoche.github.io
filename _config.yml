@@ -1,6 +1,5 @@
 # Site settings
 title: Bastien Duret
-email: me@bastienduret.com
 description: > # this means to ignore newlines until "baseurl:"
   My personal website. Nothing too fancy for now.
 baseurl: "" # the subpath of your site, e.g. /blog/
