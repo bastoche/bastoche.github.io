@@ -3,6 +3,7 @@ layout: post
 title:  "Goodbye Pearltrees"
 date:   2016-02-01 15:40:48
 categories: startup
+comments: true
 ---
 I joined [Pearltrees][1] 3 years ago, and I'm glad I did. I worked with a bunch of talented people, discovered the tech start-up world, and dived deep into mobile and web development. I wish you guys all the best!
 

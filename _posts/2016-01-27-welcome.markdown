@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to my personal blog!"
 date:   2016-01-27 17:54:14
 categories: welcome
+comments: true
 ---
 I'm just playing with Jekyll right now, but who knows, maybe this will turn into one of those [famous][1] [software][2] [engineering][3] [blogs][4].
 
