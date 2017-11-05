@@ -7,8 +7,5 @@ url: "http://www.bastienduret.com" # the base hostname & protocol for your site
 twitter_username: bast0che
 github_username:  bastoche
 
-# Build settings
-markdown: kramdown
-
-gems:
+plugins:
   - jekyll-sitemap
