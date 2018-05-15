@@ -8,6 +8,7 @@ Install and setup [rbenv](https://github.com/rbenv/rbenv)
 ```sh
 brew install rbenv
 rbenv init
+rbenv install
 ```
 
 Install the [bundler](https://bundler.io/) gem
