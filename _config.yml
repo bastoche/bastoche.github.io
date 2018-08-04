@@ -1,7 +1,7 @@
 # Site settings
 title: Bastien Duret
 description: > # this means to ignore newlines until "baseurl:"
-  My personal website. Nothing too fancy for now.
+  My personal website.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.bastienduret.com" # the base hostname & protocol for your site
 twitter_username: bast0che
