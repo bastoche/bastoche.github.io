@@ -18,4 +18,4 @@ I also provide technical and organizational coaching for CTOs.
 
 # How to reach me
 
-You can reach me via e-mail at *me-at-bastienduret-dot-com*.
+You can reach me on [LinkedIn](https://www.linkedin.com/in/bastienduret/) or e-mail at *me-at-bastienduret-dot-com*
