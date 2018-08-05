@@ -40,8 +40,8 @@ extends: 'eslint:recommended'
 Then, add the following lines to your package.json file:
 ```json
 "scripts": {
-    "lint": "eslint src --fix",
-},
+    "lint": "eslint src --fix"
+}
 ```
 
 You now have at your disposal a command that prevents you from classic mistakes like [unused variables](https://eslint.org/docs/rules/no-unused-vars):
