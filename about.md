@@ -6,15 +6,13 @@ permalink: /about/
 
 # Who I am
 
-I'm a generalist engineer interested in creating software-based products that matter. Proactive, team player, pragmatic, always on the lookout for a better way to do things.
+I'm a technical leader interested in creating tech products that matter. Proactive, team player, pragmatic, always on the lookout for a better way to do things.
 
 # Where I work
 
-I currently work as VP Engineering at [Inato](https://inato.com) and yes, [we're hiring](https://angel.co/inato/jobs). 
+I currently work as CTO at [Inato](https://inato.com) and yes, [we're hiring](https://inato.com/careers). 
 
-Previously, I was the CTO and CPO at [Auchan:Direct](https://www.auchandirect.fr/). Before that, I worked as a software engineer at [Pearltrees](http://www.pearltrees.com/).
-
-I also provide technical and organizational coaching for CTOs.
+I also provide technical and organizational coaching for technical leaders.
 
 # How to reach me
 
